@@ -1,8 +1,7 @@
-- 👋🏽  Hey, I’m Gabrielle / @command-gab!
-- 👀  I’m interested in coding.
-- 🌱  I’m currently learning new programs.
-- 💞️  I’m looking to collaborate with a team on web applications.
-- 📫  How to reach me via email smallwoodgabrielle@gmail.com. 
+Hello, I'm Gabrielle, a software engineer based in Philadelphia, PA. 👩🏽‍💻  
+With a background in Cinema, Television and Media Production, I went from creating company content to coding it.
+
+Keep in touch through <a href="mailto:smallwoodgabrielle@gmail.com">email</a> or <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a></li>.
 
 <!---
 command-gab/command-gab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
