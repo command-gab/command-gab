@@ -1,4 +1,4 @@
-Hello, I'm Gabrielle, a software engineer based in Philadelphia, PA. 👩🏽‍💻  
+Hello, I'm Gabrielle, a full-stack software engineer based in Philadelphia, PA. 👩🏽‍💻  
 With a background in Cinema, Television and Media Production, I went from creating company content to coding it.
 
 Keep in touch through <a href="mailto:smallwoodgabrielle@gmail.com">email</a> or <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a></li>.
