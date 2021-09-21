@@ -1,7 +1,11 @@
-Hello, I'm Gabrielle, a full-stack software engineer based in Philadelphia, PA. 👩🏽‍💻  
-With a background in Cinema, Television and Media Production, I went from creating company content to coding it.
+<img src="Github Header.png">
 
-Keep in touch through <a href="mailto:smallwoodgabrielle@gmail.com">email</a> or <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a></li>.
+
+<h3 align="center">Hello, I'm Gabrielle! 
+  <br> A full-stack engineer based in Philadelphia, PA. <br> 👩🏽‍💻 </h3>
+<p align="center">With a background in Cinema, Television and Media Production, I went from creating company content to coding it.</p>
+
+<div align="center"><a href="mailto:smallwoodgabrielle@gmail.com">Email</a> — <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a></div>
 
 <!---
 command-gab/command-gab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
