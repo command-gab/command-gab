@@ -1,7 +1,7 @@
 <img src="Github Header.png">
 
 
-<h3 align="center">Hello, I'm Gabrielle! 
+<h3 align="center">Hey, I'm Gabrielle! 
   <br> A full-stack engineer based in Philadelphia, PA. <br> 👩🏽‍💻 </h3>
 <p align="center">With a background in Cinema, Television and Media Production, I went from creating company content to coding it.</p>
 
