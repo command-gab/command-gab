@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Hey, I'm Gabrielle!
-  <br> A full-stack engineer based in Philadelphia, PA. <br> 👩🏽‍💻 </h3>
+  <br> A full-stack developer based in Philadelphia, PA. <br> 👩🏽‍💻 </h3>
 <p align="center">With a degree in Cinema, Television and Media Production, I went from creating company content to coding it. <br> Here to showcase my coding journey.</p><br>
 
 <h3 align="center">Stay connected!</h3>
