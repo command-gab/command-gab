@@ -6,7 +6,7 @@
 <p align="center">With a degree in Cinema, Television and Media Production, I went from creating company content to coding it. <br> Here to showcase my coding journey!</p><br>
 
 <h3 align="center">Stay connected!</h3>
-<h3 align="center"><a href="mailto:smallwoodgabrielle@gmail.com">Email</a> — <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a> — <a href="https://gabriellesmallwood.netlify.app/">Portfolio</a></h3>
+<h3 align="center"><a href="mailto:smallwoodgabrielle@gmail.com">Email</a> — <a href="https://www.linkedin.com/in/gabriellesmallwood/">Linkedin</a> — <a href="https://gabriellesmallwood.com/">Portfolio</a></h3>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
