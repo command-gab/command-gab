@@ -1,4 +1,4 @@
-<img src="Github Header.png">
+![github](https://user-images.githubusercontent.com/88905557/140652422-148d9e49-d13f-40d0-a509-95ce00373bd9.png)
 
 
 <h3 align="center">Hey, I'm Gabrielle!
